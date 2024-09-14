@@ -32,8 +32,10 @@ content:
       tag: ML
     - name: Computer Vision
       tag: CV
-    - name: NLP
-      tag: NLP
+    - name: AI
+      tag: AI
+    - name: Medical AI
+      tag: MAI
 
 design:
   columns: '1'
