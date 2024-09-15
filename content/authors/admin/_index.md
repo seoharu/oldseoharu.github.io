@@ -67,7 +67,6 @@ social:
 CHOI SEOYEON is currently pursuing a bachelor's degree at university, with a double major in Medical AI. 
 Additionally, I am working as an undergraduate researcher in a lab, where I am involved in projects related to my main area of interest, Medical AI.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
 
 <script>
   function showEmailPopup() {
