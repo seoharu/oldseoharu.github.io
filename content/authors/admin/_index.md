@@ -68,7 +68,7 @@ CHOI SEOYEON is currently pursuing a bachelor's degree at university, with a dou
 Additionally, I am working as an undergraduate researcher in a lab, where I am involved in projects related to my main area of interest, Medical AI.
 
 
-<script>
+<!-- <script>
   function showEmailPopup() {
     document.getElementById("emailPopup").style.display = "block";
   }
@@ -76,7 +76,7 @@ Additionally, I am working as an undergraduate researcher in a lab, where I am i
   function closeEmailPopup() {
     document.getElementById("emailPopup").style.display = "none";
   }
-</script>
+</script> -->
 
 <div id="emailPopup" class="modal" style="display:none;">
   <div class="modal-content">
