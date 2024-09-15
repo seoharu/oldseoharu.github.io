@@ -19,6 +19,14 @@ cascade:
     commentable: true
     show_related: true
     show_breadcrumb: true
+  - _target:
+      path: /search/**
+  - _target:
+      path: /contact/**
+    layout: contact
+
+
+
 
 ############################
 ## LANGUAGE
